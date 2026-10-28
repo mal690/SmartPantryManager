@@ -1,0 +1,367 @@
+[
+  {
+    "name": "Tomato Scrambled Eggs",
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": "2",
+        "unit": "pcs"
+      },
+      {
+        "name": "tomato",
+        "quantity": "1",
+        "unit": "pcs"
+      },
+      {
+        "name": "oil",
+        "quantity": "5",
+        "unit": "ml"
+      }
+    ],
+    "steps": "Dice the tomato. Heat the oil in a pan and soften the tomato. Beat the eggs, add to the pan and stir until fully set."
+  },
+  {
+    "name": "Simple Omelette",
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": "2",
+        "unit": "pcs"
+      },
+      {
+        "name": "oil",
+        "quantity": "5",
+        "unit": "ml"
+      }
+    ],
+    "steps": "Beat the eggs. Warm the oil in a non-stick pan. Add the eggs and cook until fully set, folding before serving."
+  },
+  {
+    "name": "Cheese Omelette",
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": "2",
+        "unit": "pcs"
+      },
+      {
+        "name": "cheese",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "name": "oil",
+        "quantity": "5",
+        "unit": "ml"
+      }
+    ],
+    "steps": "Beat the eggs. Heat the oil, add eggs and grated cheese. Cook until fully set, then fold."
+  },
+  {
+    "name": "Potato and Onion Skillet",
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": "2",
+        "unit": "pcs"
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "unit": "pcs"
+      },
+      {
+        "name": "oil",
+        "quantity": "15",
+        "unit": "ml"
+      }
+    ],
+    "steps": "Wash and finely dice potatoes and onion. Heat oil, add potatoes and cook gently, stirring often. Add onion and continue until potatoes are tender."
+  },
+  {
+    "name": "Tomato Toast",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": "2",
+        "unit": "pcs"
+      },
+      {
+        "name": "tomato",
+        "quantity": "1",
+        "unit": "pcs"
+      }
+    ],
+    "steps": "Toast bread in a dry pan. Wash and slice tomato, then place on the toast."
+  },
+  {
+    "name": "Cheese Toast",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": "2",
+        "unit": "pcs"
+      },
+      {
+        "name": "cheese",
+        "quantity": "40",
+        "unit": "g"
+      }
+    ],
+    "steps": "Place grated cheese on bread. Heat under a grill until melted, watching to prevent burning."
+  },
+  {
+    "name": "Banana Milk Smoothie",
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": "1",
+        "unit": "pcs"
+      },
+      {
+        "name": "milk",
+        "quantity": "200",
+        "unit": "ml"
+      }
+    ],
+    "steps": "Peel banana. Blend with milk until smooth. Serve immediately."
+  },
+  {
+    "name": "Apple Banana Bowl",
+    "ingredients": [
+      {
+        "name": "apple",
+        "quantity": "1",
+        "unit": "pcs"
+      },
+      {
+        "name": "banana",
+        "quantity": "1",
+        "unit": "pcs"
+      }
+    ],
+    "steps": "Wash and chop the apple, removing the core. Peel and slice banana. Mix and serve."
+  },
+  {
+    "name": "Yoghurt Banana Bowl",
+    "ingredients": [
+      {
+        "name": "yoghurt",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "name": "banana",
+        "quantity": "1",
+        "unit": "pcs"
+      }
+    ],
+    "steps": "Peel and slice banana. Spoon yoghurt into a bowl and top with banana."
+  },
+  {
+    "name": "Carrot Apple Salad",
+    "ingredients": [
+      {
+        "name": "carrot",
+        "quantity": "1",
+        "unit": "pcs"
+      },
+      {
+        "name": "apple",
+        "quantity": "1",
+        "unit": "pcs"
+      }
+    ],
+    "steps": "Wash the carrot and apple. Remove the apple core. Grate both ingredients and toss together."
+  },
+  {
+    "name": "Tomato Onion Salad",
+    "ingredients": [
+      {
+        "name": "tomato",
+        "quantity": "2",
+        "unit": "pcs"
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "unit": "pcs"
+      }
+    ],
+    "steps": "Wash and slice tomatoes. Peel and thinly slice onion. Toss together and serve."
+  },
+  {
+    "name": "Butter Toast",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": "2",
+        "unit": "pcs"
+      },
+      {
+        "name": "butter",
+        "quantity": "15",
+        "unit": "g"
+      }
+    ],
+    "steps": "Toast bread in a dry pan or toaster. Spread with butter while warm."
+  },
+  {
+    "name": "Egg Toast",
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": "1",
+        "unit": "pcs"
+      },
+      {
+        "name": "bread",
+        "quantity": "1",
+        "unit": "pcs"
+      },
+      {
+        "name": "oil",
+        "quantity": "5",
+        "unit": "ml"
+      }
+    ],
+    "steps": "Toast the bread. Heat oil in a pan and fry the egg until white and yolk are set. Place on toast."
+  },
+  {
+    "name": "Mushroom Eggs",
+    "ingredients": [
+      {
+        "name": "mushroom",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "name": "egg",
+        "quantity": "2",
+        "unit": "pcs"
+      },
+      {
+        "name": "oil",
+        "quantity": "10",
+        "unit": "ml"
+      }
+    ],
+    "steps": "Clean and slice mushrooms. Cook them in oil until softened. Beat and add eggs, stirring until fully set."
+  },
+  {
+    "name": "Pepper Onion Skillet",
+    "ingredients": [
+      {
+        "name": "pepper",
+        "quantity": "1",
+        "unit": "pcs"
+      },
+      {
+        "name": "onion",
+        "quantity": "1",
+        "unit": "pcs"
+      },
+      {
+        "name": "oil",
+        "quantity": "10",
+        "unit": "ml"
+      }
+    ],
+    "steps": "Wash pepper and remove seeds. Slice pepper and peeled onion. Cook in oil until softened."
+  },
+  {
+    "name": "Cucumber Tomato Salad",
+    "ingredients": [
+      {
+        "name": "cucumber",
+        "quantity": "1",
+        "unit": "pcs"
+      },
+      {
+        "name": "tomato",
+        "quantity": "2",
+        "unit": "pcs"
+      }
+    ],
+    "steps": "Wash cucumber and tomatoes. Slice both and toss together."
+  },
+  {
+    "name": "Milk Oats",
+    "ingredients": [
+      {
+        "name": "oats",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "name": "milk",
+        "quantity": "250",
+        "unit": "ml"
+      }
+    ],
+    "steps": "Combine oats and milk in a saucepan. Bring to a gentle simmer, stirring, and cook until oats soften."
+  },
+  {
+    "name": "Banana Oats",
+    "ingredients": [
+      {
+        "name": "oats",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "name": "milk",
+        "quantity": "250",
+        "unit": "ml"
+      },
+      {
+        "name": "banana",
+        "quantity": "1",
+        "unit": "pcs"
+      }
+    ],
+    "steps": "Simmer oats in milk, stirring until tender. Peel and slice banana and stir into the cooked oats."
+  },
+  {
+    "name": "Cheese Tomato Sandwich",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": "2",
+        "unit": "pcs"
+      },
+      {
+        "name": "cheese",
+        "quantity": "40",
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "quantity": "1",
+        "unit": "pcs"
+      }
+    ],
+    "steps": "Wash and slice tomato. Layer cheese and tomato between the bread slices."
+  },
+  {
+    "name": "Peanut Butter Banana Toast",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": "2",
+        "unit": "pcs"
+      },
+      {
+        "name": "peanut butter",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "name": "banana",
+        "quantity": "1",
+        "unit": "pcs"
+      }
+    ],
+    "steps": "Toast the bread. Spread peanut butter over it. Peel and slice banana and arrange on top."
+  }
+]

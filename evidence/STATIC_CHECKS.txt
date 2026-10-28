@@ -1,0 +1,7 @@
+Checks performed on this package during preparation:
+- recipes.json: parsed as JSON; 20 recipe records found.
+- Matching.java: compiled successfully with javac.
+- Matching smoke harness: 5 assertions passed (complete match; shortage rejected; 0.25 l = 250 ml;
+  grams do not satisfy millilitres; empty recipe rejected).
+Not performed: Android Gradle build, Android device/emulator execution, JUnit testDebugUnitTest,
+screen capture, accessibility checks, or end-to-end CRUD/persistence verification.

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="550" viewBox="0 0 1000 550">
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#18493a"/></marker></defs>
+<rect width="1000" height="550" fill="white"/>
+<g font-family="serif" font-size="22" fill="#18493a" text-anchor="middle">
+<text x="500" y="40">Smart Pantry Manager — screen flow</text>
+<g fill="#e7f1e9" stroke="#18493a" stroke-width="2"><rect x="60" y="110" width="230" height="90" rx="12"/><rect x="610" y="110" width="310" height="90" rx="12"/><rect x="60" y="290" width="230" height="90" rx="12"/><rect x="610" y="290" width="310" height="90" rx="12"/><rect x="340" y="440" width="280" height="75" rx="12"/></g>
+<text x="175" y="162">Pantry List</text><text x="765" y="162">Add / Edit Ingredient</text><text x="175" y="342">Suggested Recipes</text><text x="765" y="342">Recipe Detail</text><text x="480" y="485">Settings</text>
+<g fill="none" stroke="#18493a" stroke-width="2" marker-end="url(#arrow)"><path d="M290 155 L610 155"/><path d="M175 200 L175 290"/><path d="M290 335 L610 335"/><path d="M175 380 L175 477 L340 477"/></g>
+<text x="450" y="140" font-size="17">item_id for edit</text><text x="450" y="320" font-size="17">recipe_id</text><text x="500" y="420" font-size="17">Shared Pantry / Recipes / Settings navigation</text>
+</g></svg>
